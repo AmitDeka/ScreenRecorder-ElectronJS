@@ -1,7 +1,7 @@
 # ScreenRecorder-ElectronJS
 
 ## Total Downloads
-![GitHub All Releases](https://img.shields.io/github/downloads/AmitDeka/ScreenRecorder-ElectronJS/total?color=green&label=Windows)
+![GitHub All Releases](https://img.shields.io/github/downloads/AmitDeka/ScreenRecorder-ElectronJS/total?color=green)
 
 ### Downloads : 
 
