@@ -1,4 +1,5 @@
 # ScreenRecorder-ElectronJS
+#### This is my first Desktop app build with ElectronJS. It includes Per Window Screen Recording.
 
 ## Total Downloads
 ![GitHub All Releases](https://img.shields.io/github/downloads/AmitDeka/ScreenRecorder-ElectronJS/total?color=green)
